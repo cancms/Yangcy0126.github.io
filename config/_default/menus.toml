@@ -10,22 +10,22 @@
 
 [[main]]
   name = "Publications"
-  url = "research/"
+  url = "#featuredPublications"
   weight = 20
 
 [[main]]
   name = "Books"
-  url = "teaching/"
+  url = "#authoredBooks"
   weight = 30
 
 [[main]]
   name = "Projects"
-  url = "posts/"
+  url = "#researchProjects"
   weight = 40
 
 [[main]]
   name = "Conferences"
-  url = "blog/"
+  url = "#conferenceReports"
   weight = 50
 
 #[[main]]
@@ -40,8 +40,8 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-#    url = "files/cv_era/resume.html"
-    url = "files/cv.pdf"
-    weight = 60
+# [[main]]
+#    name = "CV"
+##    url = "files/cv_era/resume.html"
+#    url = "files/cv.pdf"
+#    weight = 60
