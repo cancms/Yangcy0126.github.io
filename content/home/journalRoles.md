@@ -26,6 +26,12 @@ date_format = "Jan 2006"
   organization = "Peking University Press, 2025"
   description = "**Managing Editor** for Journal of Economic Analysis and Economic Analysis Letters"
  
+[[item]]
+  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
+  publication_url = ""
+  writer_names = "Chapter 5"
+  organization = "Peking University Press, 2025"
+  description = "**Leading Guest editor** for Sustainability with Special Issue [Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability)"
 
 [[item]]
   publication_name = "Introduction to Digital Finance"
