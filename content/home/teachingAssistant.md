@@ -20,8 +20,7 @@ date_format = "Jan 2006"
 
 +++
 
+“Digital Finance and Insurance”, 2024, Instructor: Professor Yan Zeng 
 
 “Management of New Transformations”, 2023, Instructor: Professor Mingkang Liu (Former Chairman of China Banking Regulatory Commission) 
-
-“Digital Finance and Insurance”, 2024, Instructor: Professor Yan Zeng 
 
