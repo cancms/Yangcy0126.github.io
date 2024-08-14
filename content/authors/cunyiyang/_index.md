@@ -82,7 +82,7 @@ email: ""
 
 I am an active scholar in Finance at Lingnan College of Sun Yat-sen University. Currently, my specific research focus is on the **Theory and Application of Digital Financial Risk Management**.
 
-My main research areas include digital finance, financial risks, and green finance. I have published over 30 papers in journals such as Financial Review, International Review of Financial Analysis, Technological Forecasting & Social Change (2 articles), *Business Strategy and the Environment* (2 articles), and Energy Economics (2 articles). Several of my papers have been selected as ESI highly cited (8 articles) and ESI hot papers (9 articles). My works have been cited over 1,000 times with an H-index of 19. I also serve as a reviewer for over 30 SSCI journals.
+My main research areas include digital finance, financial risks, and green finance. I have published over 30 papers in journals such as *Financial Review*, *International Review of Financial Analysis*, *Technological Forecasting & Social Change* (2 articles), *Business Strategy and the Environment* (2 articles), and *Energy Economics* (2 articles). Several of my papers have been selected as ESI highly cited (8 articles) and ESI hot papers (9 articles). My works have been cited over 1,000 times with an H-index of 19. I also serve as a reviewer for over 30 SSCI journals.
 
 
 
