@@ -58,67 +58,67 @@ date_format = "Jan 2006"
   publication_name = "Government in the digital age: Exploring the impact of digital transformation on governmental efficiency."
   publication_url = ""
   writer_names = "**Yang, C.**, Gu, M., Albitar, K. (2024)."
-  organization = "Technological Forecasting & Social Change. Accept"
+  organization = "_Technological Forecasting & Social Change_. Accept"
 
 [[item]]
   publication_name = "Green versus Digital: Analyzing financial strategies for energy transition."
   publication_url = ""
   writer_names = "**Yang, C.**, Yang, R., Ma, W. (2024)."
-  organization = "Financial Innovation. Accept"
+  organization = "_Financial Innovation_. Accept"
 
 [[item]]
   publication_name = "How to facilitate in-depth digitalization in enterprises?"
   publication_url = ""  
   writer_names = "Wu, J., <strong>Yang, C*</strong>., Zhang, G. (2024)."
-  organization = "Applied Economics Letters. Accept"
+  organization = "_Applied Economics Letters_. Accept"
 
 [[item]]
   publication_name = "Forecasting Economic and Technological Cycles: The Role of Digital Economy in Facilitating Green Finance and Energy Transition."
   publication_url = ""  
   writer_names = "Wu, H., Ma, Y., <strong>Yang, C*</strong>. (2024)."
-  organization = "Technological Forecasting & Social Change. Accept"
+  organization = "_Technological Forecasting & Social Change_. Accept"
 
 [[item]]
   publication_name = "Far-sighted through mitigating risk: Directors and officers liability insurance and corporate ESG performance."
   publication_url = ""
   writer_names = "Yang, R., Wu, J., <strong>Yang, C*</strong>., Albitar, K. (2024)."
-  organization = "International Review of Financial Analysis. Early Access"
+  organization = "_International Review of Financial Analysis_. Early Access"
 
 [[item]]
   publication_name = "Financing constraints of firms: Is there political favoritism in the economic resources given by the central government?"
   publication_url = "https://doi.org/10.1002/mde.4296"
   writer_names = "Liu, X., Faura, J., Gao, M., <strong>Yang, C*</strong>. (2024)."
-  organization = "Managerial and Decision Economics. Early Access"
+  organization = "_Managerial and Decision Economics_. Early Access"
 
 [[item]]
   publication_name = "Digitalization of banks and inclusive finance: New insights from cultural industry’s financing constraints."
   publication_url = "https://doi.org/10.1111/fire.12404"
   writer_names = "**Yang, C.**, Chen, L., Li, Q., Wu, J. (2024)."
-  organization = "Financial Review. Early Access"
+  organization = "_Financial Review_. Early Access"
 
 [[item]]
   publication_name = "The impact of fintech on corporate carbon emissions: Towards green and sustainable development."
   publication_url = "https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3778"
   writer_names = "Wang, C., Wang, L., Zhao, S., <strong>Yang, C*</strong>., Albitar, K. (2024)."
-  organization = "Business Strategy and the Environment. Early Access"
+  organization = "_Business Strategy and the Environment_. Early Access"
 
 [[item]]
   publication_name = "ESG ratings and green innovation: A U-shaped journey towards sustainable development."
   publication_url = "https://doi.org/10.1002/bse.3692"
   writer_names = "**Yang, C.**, Zhu, C., Albitar, K. (2024)."
-  organization = "Business Strategy and the Environment. 33(5), 4108-4129"
+  organization = "_Business Strategy and the Environment_. 33(5), 4108-4129"
 
 [[item]]
   publication_name = "Examining the non-linear effects of monetary policy on carbon emissions."
   publication_url = "https://doi.org/10.1016/j.eneco.2023.107206"
   writer_names = "Wu, J., **Yang, C.**, Chen, L. (2024)."
-  organization = "Energy Economics. 131, 107206"
+  organization = "_Energy Economics_. 131, 107206"
 
 [[item]]
   publication_name = "The spillover effect of international monetary policy on China’s financial market."
   publication_url = "https://doi.org/10.3934/QFE.2023026"
   writer_names = "**Yang, C.**, Chen, L., Mo, B. (2023)."
-  organization = "Quantitative Finance and Economics. 7(4), 508-537"
+  organization = "_Quantitative Finance and Economics_. 7(4), 508-537"
 
 
 
