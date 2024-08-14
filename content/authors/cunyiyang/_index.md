@@ -24,9 +24,6 @@ interests:
 - Digital Finance
 - Financial Risk
 - Green Finance
-#- Data analysis
-#- Reproducible research
-#- Causal inference
 
 education:
   courses:
