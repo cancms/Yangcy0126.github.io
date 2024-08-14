@@ -104,19 +104,19 @@ date_format = "Jan 2006"
 
 [[item]]
   publication_name = "ESG ratings and green innovation: A U-shaped journey towards sustainable development."
-  publication_url = ""
+  publication_url = "https://doi.org/10.1002/bse.3692"
   writer_names = "**Yang, C.**, Zhu, C., Albitar, K. (2024)."
   organization = "Business Strategy and the Environment. 33(5), 4108-4129"
 
 [[item]]
   publication_name = "Examining the non-linear effects of monetary policy on carbon emissions."
-  publication_url = ""
+  publication_url = "https://doi.org/10.1016/j.eneco.2023.107206"
   writer_names = "Wu, J., **Yang, C.**, Chen, L. (2024)."
   organization = "Energy Economics. 131, 107206"
 
 [[item]]
   publication_name = "The spillover effect of international monetary policy on China’s financial market."
-  publication_url = ""
+  publication_url = "https://doi.org/10.3934/QFE.2023026"
   writer_names = "**Yang, C.**, Chen, L., Mo, B. (2023)."
   organization = "Quantitative Finance and Economics. 7(4), 508-537"
 
