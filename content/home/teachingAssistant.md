@@ -21,4 +21,7 @@ date_format = "Jan 2006"
 +++
 
 
-Management of New Transformations”, 2023, Instructor: Professor Mingkang Liu (Former Chairman of China Banking Regulatory Commission) 
+“Management of New Transformations”, 2023, Instructor: Professor Mingkang Liu (Former Chairman of China Banking Regulatory Commission) 
+
+“Digital Finance and Insurance”, 2024, Instructor: Professor Yan Zeng 
+
