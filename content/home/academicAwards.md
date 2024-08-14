@@ -26,4 +26,5 @@ date_format = "Jan 2006"
 
 **Scholarships**
 The Outstanding Doctoral Student Scholarship of Lingnan College
+
 National Graduate Scholarship
