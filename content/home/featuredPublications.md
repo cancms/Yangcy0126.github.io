@@ -85,19 +85,19 @@ date_format = "Jan 2006"
   organization = "International Review of Financial Analysis. Early Access"
 
 [[item]]
-  publication_name = "Financing constraints of firms: Is there political favoritism in the economic resources given by the central government?"
+  publication_name = "[Financing constraints of firms: Is there political favoritism in the economic resources given by the central government?](https://doi.org/10.1002/mde.4296)"
   publication_url = ""
   writer_names = "Liu, X., Faura, J., Gao, M., <strong>Yang, C*</strong>. (2024)."
   organization = "Managerial and Decision Economics. Early Access"
 
 [[item]]
-  publication_name = "Digitalization of banks and inclusive finance: New insights from cultural industry’s financing constraints."
+  publication_name = "[Digitalization of banks and inclusive finance: New insights from cultural industry’s financing constraints.](https://doi.org/10.1111/fire.12404)"
   publication_url = ""
   writer_names = "**Yang, C.**, Chen, L., Li, Q., Wu, J. (2024)."
   organization = "Financial Review. Early Access"
 
 [[item]]
-  publication_name = "The impact of fintech on corporate carbon emissions: Towards green and sustainable development."
+  publication_name = "[The impact of fintech on corporate carbon emissions: Towards green and sustainable development.](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3778)"
   publication_url = ""
   writer_names = "Wang, C., Wang, L., Zhao, S., <strong>Yang, C*</strong>., Albitar, K. (2024)."
   organization = "Business Strategy and the Environment. Early Access"
