@@ -29,7 +29,6 @@
   padding: 1px 0;
   font-family: MJXc-TeX-math-I,MJXc-TeX-math-Ix,MJXc-TeX-math-Iw;
 }
-/* 调整导航栏字体大小 */
-.navbar .nav-link {
-    font-size: 30px;  /* 将字体大小调整为18px，或根据需要调整 */
+.site-header-nav .nav-item .nav-link {
+    font-size: 30px; /* 增大到18px */
 }
