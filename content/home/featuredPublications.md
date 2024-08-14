@@ -86,7 +86,7 @@ date_format = "Jan 2006"
 
 [[item]]
   publication_name = "[Financing constraints of firms: Is there political favoritism in the economic resources given by the central government?](https://doi.org/10.1002/mde.4296)"
-  publication_url = "https://doi.org/10.1002/mde.4296"
+  publication_url = ""
   writer_names = "Liu, X., Faura, J., Gao, M., <strong>Yang, C*</strong>. (2024)."
   organization = "Managerial and Decision Economics. Early Access"
 
