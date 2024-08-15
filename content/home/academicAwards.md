@@ -20,13 +20,16 @@ date_format = "Jan 2006"
 
 +++
 
-
-**Paper Awards**
+PaperAwards = """
+**Paper Awards：**
 
 “Best Paper Award” in The 9th Risk Management and Financial Statistics Forum
+"""
 
-**Scholarships**
+Scholarships = """
+**Scholarships：**
 
 The Outstanding Doctoral Student Scholarship of Lingnan College
 
 National Graduate Scholarship
+"""
