@@ -18,18 +18,14 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-published = """
+
 **Paper Awards：**
 
-The 9th Risk Management and Financial Statistics Forum “Best Paper Award”.
-"""
+“Best Paper Award” in The 9th Risk Management and Financial Statistics Forum 
 
-workArticle = """
 **Scholarships：**
 
-The Outstanding Doctoral Student Scholarship of Lingnan College.
+The Outstanding Doctoral Student Scholarship of Lingnan College
 
-National Graduate Scholarship.
-"""
+National Graduate Scholarship
 
-+++
