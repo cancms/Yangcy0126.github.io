@@ -24,7 +24,7 @@ date_format = "Jan 2006"
 
 **Team Leader:** Cunyi Yang
 
-**Memebers**
+**Memebers:**
 
 <a href="https://www.researchgate.net/profile/Runze-Yang-8" target="_blank">Runze Yang</a>, Shanghai University of Finance and Economics
 
