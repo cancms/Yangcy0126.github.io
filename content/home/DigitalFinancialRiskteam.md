@@ -20,14 +20,15 @@ date_format = "Jan 2006"
 
 +++
 
-**Digital Financial Risk Team：**
+**Digital Financial Risk Team**
 
 **Team Leader:** Cunyi Yang
 
 **Memebers**
 
-[Runze Yang](https://www.researchgate.net/profile/Runze-Yang-8), Shanghai University of Finance and Economics
+[Runze Yang](https://www.researchgate.net/profile/Runze-Yang-8){:target="_blank"}, Shanghai University of Finance and Economics
 
-[Conghao Zhu](https://www.researchgate.net/profile/Conghao-Zhu), Nanjing Normal University
+[Conghao Zhu](https://www.researchgate.net/profile/Conghao-Zhu){:target="_blank"}, Nanjing Normal University
 
-[Shuo Luo](https://www.researchgate.net/profile/Shuo-Luo-2), Guangxi Normal University
+[Shuo Luo](https://www.researchgate.net/profile/Shuo-Luo-2){:target="_blank"}, Guangxi Normal University
+
