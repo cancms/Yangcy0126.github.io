@@ -18,19 +18,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
  
-managingeditor = """
+published = """
 **Managing Editor**
 
 _Journal of Economic Analysis_ and _Economic Analysis Letters_
 """
 
-leadingguesteditor = """
+published = """
 **Leading Guest Editor**
 
 _Sustainability_ with Special Issue <a href="https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D" target="_blank">Digital Economy in Sustainable Resource Risk Management</a>
 """
 
-reviewer = """
+published = """
 **Reviewer**
 
 _Applied Economics_, _Applied Economics Letters_, _Business Strategy and the Environment_, _China Finance Review International_, _Economic Analysis and Policy_, _Energy Economics_, _Financial Innovation_, _International Review of Financial Analysis_, _Managerial and Decision Economics_, _Quantitative Finance and Economics_, _Resources Policy_, etc.
