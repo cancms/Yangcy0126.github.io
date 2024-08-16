@@ -40,3 +40,5 @@ date_format = "Jan 2006"
   description = "**Reviewer** for _Applied Economics_, _Applied Economics Letters_, _Business Strategy and the Environment_, _China Finance Review International_, _Economic Analysis and Policy_, _Energy Economics_, _Financial Innovation_, _International Review of Financial Analysis_, _Managerial and Decision Economics_, _Quantitative Finance and Economics_, _Resources Policy_, etc."
 
 +++
+
+
