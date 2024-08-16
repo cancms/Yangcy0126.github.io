@@ -18,35 +18,22 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
  
+managingeditor = """
+**Managing Editor**
 
-[[item]]
-  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
-  publication_url = ""
-  writer_names = "Chapter 5"
-  organization = "Peking University Press, 2025"
-  description = "**Managing Editor** for _Journal of Economic Analysis_ and _Economic Analysis Letters_"
- 
-[[item]]
-  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
-  publication_url = ""
-  writer_names = "Chapter 5"
-  organization = "Peking University Press, 2025"
-  description = "**Leading Guest editor** for _Sustainability_ with Special Issue <a href="https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D" target="_blank">Digital Economy in Sustainable Resource Risk Management</a>
+_Journal of Economic Analysis_ and _Economic Analysis Letters_
+"""
 
-[[item]]
-  publication_name = "Introduction to Digital Finance"
-  publication_url = ""
-  writer_names = "Chapter 3"
-  organization = "Peking University Press, 2024"
-  description = "**Reviewer** for _Applied Economics_, _Applied Economics Letters_, _Business Strategy and the Environment_, _China Finance Review International_, _Economic Analysis and Policy_, _Energy Economics_, _Financial Innovation_, _International Review of Financial Analysis_, _Managerial and Decision Economics_, _Quantitative Finance and Economics_, _Resources Policy_, etc."
- 
+leadingguesteditor = """
+**Leading Guest Editor**
 
+_Sustainability_ with Special Issue <a href="https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D" target="_blank">Digital Economy in Sustainable Resource Risk Management</a>
+"""
 
+reviewer = """
+**Reviewer**
 
-
-
-
-
-
+_Applied Economics_, _Applied Economics Letters_, _Business Strategy and the Environment_, _China Finance Review International_, _Economic Analysis and Policy_, _Energy Economics_, _Financial Innovation_, _International Review of Financial Analysis_, _Managerial and Decision Economics_, _Quantitative Finance and Economics_, _Resources Policy_, etc.
+"""
 
 +++
