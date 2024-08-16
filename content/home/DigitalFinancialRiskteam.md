@@ -22,8 +22,14 @@ date_format = "Jan 2006"
 
 **Digital Financial Risk Team：**
 
-**Dr. Runze Yang**, Shanghai University of Finance and Economics
+**Team Leader**
 
-**Dr. Conghao Zhu**, Nanjing Normal University
+Cunyi Yang
 
-**Mr. Shuo Luo**, Guangxi Normal University
+**Memebers**
+
+Runze Yang, Shanghai University of Finance and Economics
+
+Conghao Zhu, Nanjing Normal University
+
+Shuo Luo, Guangxi Normal University
