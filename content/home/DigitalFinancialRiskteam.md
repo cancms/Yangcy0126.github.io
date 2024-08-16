@@ -26,9 +26,10 @@ date_format = "Jan 2006"
 
 **Memebers**
 
-[Runze Yang](https://www.researchgate.net/profile/Runze-Yang-8){:target="_blank"}, Shanghai University of Finance and Economics
+<a href="https://www.researchgate.net/profile/Runze-Yang-8" target="_blank">Runze Yang</a>, Shanghai University of Finance and Economics
 
-[Conghao Zhu](https://www.researchgate.net/profile/Conghao-Zhu){:target="_blank"}, Nanjing Normal University
+<a href="https://www.researchgate.net/profile/Conghao-Zhu" target="_blank">Conghao Zhu</a>, Nanjing Normal University
 
-[Shuo Luo](https://www.researchgate.net/profile/Shuo-Luo-2){:target="_blank"}, Guangxi Normal University
+<a href="https://www.researchgate.net/profile/Shuo-Luo-2" target="_blank">Shuo Luo</a>, Guangxi Normal University
+
 
