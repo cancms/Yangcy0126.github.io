@@ -1,11 +1,11 @@
 +++
 # workingPapers widget.
-widget = "academicAwards"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "researchteam"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+weight = 105  # Order that this section will appear.
 
-title = "Academic Awards"
+title = "Research team"
 subtitle = ""
 
 # Date format
@@ -20,12 +20,10 @@ date_format = "Jan 2006"
 
 +++
 
-**Paper Awards：**
+**Digital Financial Risk Team：**
 
-“Best Paper Award” in The 9th Risk Management and Financial Statistics Forum 
+**Dr. Runze Yang**, Shanghai University of Finance and Economics
 
-**Scholarships：**
+**Dr. Conghao Zhu**, Nanjing Normal University
 
-The Outstanding Doctoral Student Scholarship of Lingnan College
-
-National Graduate Scholarship
+**Mr. Shuo Luo**, Guangxi Normal University
