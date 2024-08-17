@@ -53,6 +53,11 @@ date_format = "Jan 2006"
 #  date_end = "2017-12-21"
 #  description = ""
 
+[[item]]
+  publication_name = "Digitalization of banks and inclusive finance: New insights from cultural industry’s financing constraints."
+  publication_url = "https://doi.org/10.1111/fire.12404"
+  writer_names = "**Yang, C.**, Chen, L., Li, Q., Wu, J. (2024)."
+  organization = "_Financial Review_. Early Access"
 
 [[item]]
   publication_name = "Government in the digital age: Exploring the impact of digital transformation on governmental efficiency."
@@ -65,7 +70,19 @@ date_format = "Jan 2006"
   publication_url = ""
   writer_names = "**Yang, C.**, Yang, R., Ma, W. (2024)."
   organization = "_Financial Innovation_. Accept"
+  
+[[item]]
+  publication_name = "ESG ratings and green innovation: A U-shaped journey towards sustainable development."
+  publication_url = "https://doi.org/10.1002/bse.3692"
+  writer_names = "**Yang, C.**, Zhu, C., Albitar, K. (2024)."
+  organization = "_Business Strategy and the Environment_. 33(5), 4108-4129"
 
+[[item]]
+  publication_name = "The spillover effect of international monetary policy on China’s financial market."
+  publication_url = "https://doi.org/10.3934/QFE.2023026"
+  writer_names = "**Yang, C.**, Chen, L., Mo, B. (2023)."
+  organization = "_Quantitative Finance and Economics_. 7(4), 508-537"
+  
 [[item]]
   publication_name = "How to facilitate in-depth digitalization in enterprises?"
   publication_url = ""  
@@ -91,22 +108,10 @@ date_format = "Jan 2006"
   organization = "_Managerial and Decision Economics_. Early Access"
 
 [[item]]
-  publication_name = "Digitalization of banks and inclusive finance: New insights from cultural industry’s financing constraints."
-  publication_url = "https://doi.org/10.1111/fire.12404"
-  writer_names = "**Yang, C.**, Chen, L., Li, Q., Wu, J. (2024)."
-  organization = "_Financial Review_. Early Access"
-
-[[item]]
   publication_name = "The impact of fintech on corporate carbon emissions: Towards green and sustainable development."
   publication_url = "https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3778"
   writer_names = "Wang, C., Wang, L., Zhao, S., <strong>Yang, C*</strong>., Albitar, K. (2024)."
   organization = "_Business Strategy and the Environment_. Early Access"
-
-[[item]]
-  publication_name = "ESG ratings and green innovation: A U-shaped journey towards sustainable development."
-  publication_url = "https://doi.org/10.1002/bse.3692"
-  writer_names = "**Yang, C.**, Zhu, C., Albitar, K. (2024)."
-  organization = "_Business Strategy and the Environment_. 33(5), 4108-4129"
 
 [[item]]
   publication_name = "Examining the non-linear effects of monetary policy on carbon emissions."
@@ -114,11 +119,6 @@ date_format = "Jan 2006"
   writer_names = "Wu, J., **Yang, C.**, Chen, L. (2024)."
   organization = "_Energy Economics_. 131, 107206"
 
-[[item]]
-  publication_name = "The spillover effect of international monetary policy on China’s financial market."
-  publication_url = "https://doi.org/10.3934/QFE.2023026"
-  writer_names = "**Yang, C.**, Chen, L., Mo, B. (2023)."
-  organization = "_Quantitative Finance and Economics_. 7(4), 508-537"
 
 
 
