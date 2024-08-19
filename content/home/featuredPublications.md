@@ -96,6 +96,12 @@ date_format = "Jan 2006"
   organization = "_Technological Forecasting & Social Change_. Accept"
 
 [[item]]
+  publication_name = "Financial technology and climate risks in financial market."
+  publication_url = ""
+  writer_names = "Wu, H., <strong>Yang, C*</strong>., Zhang, G. (2024)."
+  organization = "_International Review of Financial Analysis_. Accept"
+  
+[[item]]
   publication_name = "Far-sighted through mitigating risk: Directors and officers liability insurance and corporate ESG performance."
   publication_url = ""
   writer_names = "Yang, R., Wu, J., <strong>Yang, C*</strong>., Albitar, K. (2024)."
