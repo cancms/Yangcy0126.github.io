@@ -90,7 +90,7 @@ date_format = "Jan 2006"
   organization = "_Applied Economics Letters_. Accept"
 
 [[item]]
-  publication_name = "Forecasting Economic and Technological Cycles: The Role of Digital Economy in Facilitating Green Finance and Energy Transition."
+  publication_name = "Technological innovation redefines green economic cycles: Digital economy and the decoupling of carbon emissions and economic growth."
   publication_url = ""  
   writer_names = "Wu, H., Ma, Y., <strong>Yang, C*</strong>. (2024)."
   organization = "_Technological Forecasting & Social Change_. Accept"
