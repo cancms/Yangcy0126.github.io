@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   publication_name = "Government in the digital age: Exploring the impact of digital transformation on governmental efficiency."
   publication_url = "https://doi.org/10.1016/j.techfore.2024.123722"
   writer_names = "**Yang, C.**, Gu, M., Albitar, K. (2024)."
-  organization = "_Technological Forecasting & Social Change_. Accept"
+  organization = "_Technological Forecasting & Social Change_. 208, 123722"
 
 [[item]]
   publication_name = "Green versus Digital: Analyzing financial strategies for energy transition."
@@ -87,7 +87,7 @@ date_format = "Jan 2006"
   publication_name = "How to facilitate in-depth digitalization in enterprises?"
   publication_url = "https://doi.org/10.1080/13504851.2024.2398191"  
   writer_names = "Wu, J., <strong>Yang, C*</strong>., Zhang, G. (2024)."
-  organization = "_Applied Economics Letters_. Accept"
+  organization = "_Applied Economics Letters_. Early Access"
 
 [[item]]
   publication_name = "Financial technology and climate risks in financial market."
