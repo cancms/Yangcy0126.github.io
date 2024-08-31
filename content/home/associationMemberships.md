@@ -19,6 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+Systems Engineering Society of China (SESC)
 
 Chinese Society of Optimization, Overall Planning and Economical Mathematics (CSOOPEM)
 
