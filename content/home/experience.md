@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company = "Business School, The University of Hong Kong"
   company_url = ""
   location = "Hong Kong"
-  date_start = "2024-05-01"
+  date_start = "2024-09-01"
   date_end = ""
   description0 = """Taught electronic engineering and researched semiconductor physics."""
 
