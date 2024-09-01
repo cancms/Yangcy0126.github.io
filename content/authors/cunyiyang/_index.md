@@ -29,7 +29,6 @@ education:
   courses:
   - course: PhD in Finance
     institution: Sun Yat-sen University
-    advisors: Prof. Yan Zeng. [Prof. Yan Zeng's Profile](https://scholar.google.com/citations?user=Yebjil0AAAAJ&hl=en&oi=sra)"
     year:
   - course: Master in Finance
     institution: Guangzhou University
