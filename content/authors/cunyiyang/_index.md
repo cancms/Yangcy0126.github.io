@@ -27,11 +27,11 @@ interests:
 
 education:
   courses:
-  - course: PhD in Finance, advisor: Prof. <a href="https://scholar.google.com/citations?user=Yebjil0AAAAJ&hl=en&oi=sra" target="_blank">Yan Zeng</a>
-    institution: Sun Yat-sen University
+  - course: PhD in Finance
+    institution: Sun Yat-sen University, advisor: Prof. <a href="https://scholar.google.com/citations?user=Yebjil0AAAAJ&hl=en&oi=sra" target="_blank">Yan Zeng</a>
     year:
-  - course: Master in Finance, advisor: Prof. <a href="https://www.researchgate.net/profile/Zhenghui-Li-2" target="_blank">Zhenghui Li</a>
-    institution: Guangzhou University
+  - course: Master in Finance
+    institution: Guangzhou University, advisor: Prof. <a href="https://www.researchgate.net/profile/Zhenghui-Li-2" target="_blank">Zhenghui Li</a>
     year: 
   - course: Bachelor in Finance
     institution: Wuhan University of Technology
