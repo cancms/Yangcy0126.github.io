@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Finance
     institution: Sun Yat-sen University
-    year:
+    year: advisor: Yan Zeng
     advisor: Yan Zeng
     advisor_url: "https://scholar.google.com/citations?user=Yebjil0AAAAJ&hl=en&oi=sra"
   - course: Master in Finance
