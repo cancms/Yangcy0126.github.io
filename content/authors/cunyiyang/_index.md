@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: PhD in Finance
-    institution: Sun Yat-sen University, advisor: Prof. <a href="https://scholar.google.com/citations?user=Yebjil0AAAAJ&hl=en&oi=sra" target="_blank">Yan Zeng</a>
+    institution: Sun Yat-sen University
     year:
   - course: Master in Finance
-    institution: Guangzhou University, advisor: Prof. <a href="https://www.researchgate.net/profile/Zhenghui-Li-2" target="_blank">Zhenghui Li</a>
+    institution: Guangzhou University
     year: 
   - course: Bachelor in Finance
     institution: Wuhan University of Technology
@@ -81,4 +81,4 @@ I am an active scholar in Finance at Lingnan College of Sun Yat-sen University, 
 
 My research interests include digital finance, financial risks, and green finance. I have published over 30 papers in journals, including *Financial Review*, *International Review of Financial Analysis*, *Technological Forecasting & Social Change*, *Business Strategy and the Environment* (2 articles), *Energy Economics* (2 articles), 《经济研究》, and 《系统工程理论与实践》 (2 articles). Several of my papers have been selected as ESI highly cited (8 articles) and ESI hot papers (9 articles). My works have been cited over 1,000 times with an H-index of 19. I also serve as a reviewer for over 30 SSCI journals.
 
-Current advisor: Prof. <a href="https://scholar.google.com/citations?user=Yebjil0AAAAJ&hl=en&oi=sra" target="_blank">Yan Zeng</a>, Past advisor: Prof. <a href="https://www.researchgate.net/profile/Zhenghui-Li-2" target="_blank">Zhenghui Li</a>.
+# Current advisor: Prof. <a href="https://scholar.google.com/citations?user=Yebjil0AAAAJ&hl=en&oi=sra" target="_blank">Yan Zeng</a>, past advisor: Prof. <a href="https://www.researchgate.net/profile/Zhenghui-Li-2" target="_blank">Zhenghui Li</a>.
