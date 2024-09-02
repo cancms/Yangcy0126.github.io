@@ -23,15 +23,15 @@ date_format = "Jan 2006"
 
 Industrial financialization and systemic risk: Analysis based on the risk transmission mechanism among economic sectors.
 
-Exploring the production-oriented digital transformation in industrial enterprises
+Exploring the production-oriented digital transformation in industrial enterprises.
 
-Heterogeneity through motivation: The impact of corporate digital finance on financialization
+Heterogeneity through motivation: The impact of corporate digital finance on financialization.
 
-Refinancing, withdrawing and optimal loan structure: An equilibrium approach
+Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
 
-The role of digital government on renewable energy development: theory and evidence
+The role of digital government on renewable energy development: theory and evidence.
 
-Collateral shocks and corporate risk-taking in China
+Collateral shocks and corporate risk-taking in China.
 
 Interaction between fintech development and energy transition risks: Towards sustainable governance.
 
