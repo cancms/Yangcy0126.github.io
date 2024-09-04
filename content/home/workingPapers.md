@@ -41,6 +41,6 @@ Climate risk and industry returns: Industry green innovation or carbon market un
 
 The dark side of mitigating risk: Directors’ and officers’ liability insurance and business ethics.
 
-Dynamics Between Fintech and Financial Market: Supply-driven or Demand-guided?
+Dynamics between fintech and financial market: Supply-driven or demand-guided?
 
 How does digital transformation work? A perspective on information management and resource allocation
