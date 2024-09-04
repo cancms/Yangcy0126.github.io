@@ -111,7 +111,7 @@ date_format = "Jan 2006"
   publication_name = "The impact of fintech on corporate carbon emissions: Towards green and sustainable development."
   publication_url = "https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3778"
   writer_names = "Wang, C., Wang, L., Zhao, S., <strong>Yang, C*</strong>., Albitar, K. (2024)."
-  organization = "_Business Strategy and the Environment_. Early Access"
+  organization = "_Business Strategy and the Environment_.  33(6), 5776-5796"
 
 [[item]]
   publication_name = "Examining the non-linear effects of monetary policy on carbon emissions."
