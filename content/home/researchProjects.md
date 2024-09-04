@@ -21,20 +21,21 @@ date_format = "Jan 2006"
 +++
 
 
-National Social Science Fund General Project “The Statistical Monitoring Study on the Coordination and Balance of Digital Finance Empowerment and Risk.” (in progress)
+National Social Science Fund General Project “The statistical monitoring study on the coordination and balance of digital finance empowerment and risk.” (in progress)
 
-Guangdong Provincial Natural Science Foundation Excellent Youth Team “Theory and Application Research on Industrial Digital Finance Empowering Real Economy” (in progress)
+Guangdong Provincial Natural Science Foundation Excellent Youth Team “Theory and application research on industrial digital finance empowering real economy” (in progress)
 
-National Natural Science Foundation Project “Research on Insurance Asset Allocation Based on Green Development” (in progress)
+National Natural Science Foundation Project “Research on insurance asset allocation based on green development” (in progress)
 
-Southern Power Grid Energy Development Research Institute Horizontal Project “Study on the Financial Attributes of Corporate Data Assets” (in progress)
+Southern Power Grid Energy Development Research Institute Horizontal Project “Study on the financial attributes of corporate data assets” (in progress)
 
-National Social Science Fund General Project “The Crowding-Out Effect and Motivation of Corporate Financialization on R&D Innovation” (completed)
+National Social Science Fund General Project “The crowding-out effect and motivation of corporate financialization on R&D innovation” (completed)
 
-Guangdong Financial Society Annual Policy Consultation Topic “Research on Financial Support for Digital Transformation of Manufacturing Industry in Guangdong” (completed)
+Guangdong Financial Society Annual Policy Consultation Topic “Research on financial support for digital transformation of manufacturing industry in Guangdong” (completed)
 
-China Society of Finance Key Topic “Challenges and Impacts on Traditional Financial System in the Era of Strong AI” (completed)
+China Society of Finance Key Topic “Challenges and impacts on traditional financial system in the era of strong AI” (completed)
 
-National Social Science Fund Youth Project “Statistical Monitoring Study on Systemic Risks Caused by Corporate Financialization” (completed)
+National Social Science Fund Youth Project “Statistical monitoring study on systemic risks caused by corporate financialization” (completed)
 
-Guangdong Province Philosophy and Social Sciences Special “Measurement and Prevention Research on Regional Systemic Financial Risks in Guangdong Province” (completed) 
+Guangdong Province Philosophy and Social Sciences Special “Measurement and prevention research on regional systemic financial risks in Guangdong province” (completed)
+
