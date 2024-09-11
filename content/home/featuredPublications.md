@@ -105,7 +105,7 @@ date_format = "Jan 2006"
   publication_name = "Financing constraints of firms: Is there political favoritism in the economic resources given by the central government?"
   publication_url = "https://doi.org/10.1002/mde.4296"
   writer_names = "Liu, X., Faura, J., Gao, M., <strong>Yang, C*</strong>. (2024)."
-  organization = "_Managerial and Decision Economics_. Early Access"
+  organization = "_Managerial and Decision Economics_. 45(7), 4983-5005"
 
 [[item]]
   publication_name = "The impact of fintech on corporate carbon emissions: Towards green and sustainable development."
