@@ -85,7 +85,7 @@ date_format = "Jan 2006"
   
 [[item]]
   publication_name = "How to facilitate in-depth digitalization in enterprises?"
-  publication_url = "https://doi.org/10.1080/13504851.2024.2398191"  
+  publication_url = "https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2398191#abstract"  
   writer_names = "Wu, J., <strong>Yang, C*</strong>., Zhang, G. (2024)."
   organization = "_Applied Economics Letters_. Early Access"
 
