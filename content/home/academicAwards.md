@@ -22,9 +22,9 @@ date_format = "Jan 2006"
 
 **Paper Awards：**
 
-“Best Paper Award” in The 9th Risk Management and Financial Statistics Forum 
+“Best Paper Award” in 9th Risk Management and Financial Statistics Forum 
 
-“Best Paper Award - Third Prize” in The 4th National Major Strategy and Policy Research Forum
+“Best Paper Award - Third Prize” in 4th National Major Strategy and Policy Research Forum
 
 **Scholarships：**
 
