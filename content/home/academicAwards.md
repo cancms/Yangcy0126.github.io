@@ -24,7 +24,7 @@ date_format = "Jan 2006"
 
 “Best Paper Award” in The 9th Risk Management and Financial Statistics Forum 
 
-“Best Paper Award - Third Prize” in 4th National Major Strategy and Policy Research Forum in 2024
+“Best Paper Award - Third Prize” in The 4th National Major Strategy and Policy Research Forum
 
 **Scholarships：**
 
