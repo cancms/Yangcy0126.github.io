@@ -19,24 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
-
 21st Annual Conference of the Chinese Society of Finance, Guangzhou, 2024
+
+1st Theoretical Foundations of Digital Economy Forum, Beijing, 2024
 
 6th Internet and Digital Economy Forum, Beijing, 2024
 
 9th Risk Management and Financial Statistics Forum, Guangzhou, 2024
 
-First Greater Bay Area Digital Finance Forum, Guangzhou, 2024
+1st Greater Bay Area Digital Finance Forum, Guangzhou, 2024
 
 20th Annual Conference of the Chinese Society of Finance, Beijing, 2023
 
 7th Annual Conference of Chinese Fintech, Guangzhou, 2023
 
-First Symposium on Frontier Issues of Industrial Integration by the Chinese Society of Industrial Economics, Guangzhou, 2023
+1st Symposium on Frontier Issues of Industrial Integration by the Chinese Society of Industrial Economics, Guangzhou, 2023
 
 5th Internet and Digital Economy Forum, Changsha, 2023
 
-First Forum of “Quarterly Journal of Finance”, Guangzhou, 2023
+1st “Quarterly Journal of Finance” Forum, Guangzhou, 2023
 
 5th Annual Conference of Quantitative Finance and Insurance Section of Chinese Society of Optimization, Overall Planning and Economical Mathematics, Wuhan, 2023
 
