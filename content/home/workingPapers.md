@@ -44,3 +44,5 @@ The dark side of mitigating risk: Directors’ and officers’ liability insuran
 Dynamics between fintech and financial market: Supply-driven or demand-guided?
 
 How does digital transformation work? A perspective on information management and resource allocation
+
+Crowding Out or Crowding In? The Impact of Talent Subsidy Policy on the Income of Low-Skilled Workers
