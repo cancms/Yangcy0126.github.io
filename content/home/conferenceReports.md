@@ -29,14 +29,14 @@ Internet and Digital Economy Forum (6th in Beijing, 2024; 5th in Changsha, 2023)
 
 Risk Management and Financial Statistics Forum (9th in Guangzhou, 2024; 7th in Guangzhou, 2022; 6th in Xiamen, 2021)
 
-1st Greater Bay Area Digital Finance Forum, Guangzhou, 2024
+Greater Bay Area Digital Finance Forum (1st in Guangzhou, 2024)
 
-7th Annual Conference of Chinese Fintech, Guangzhou, 2023
+Annual Conference of Chinese Fintech (7th in Guangzhou, 2023)
 
-1st Symposium on Frontier Issues of Industrial Integration by the Chinese Society of Industrial Economics, Guangzhou, 2023
+Symposium on Frontier Issues of Industrial Integration by the Chinese Society of Industrial Economics (1st in Guangzhou, 2023)
 
-1st “Quarterly Journal of Finance” Forum, Guangzhou, 2023
+Quarterly Journal of Finance Forum (1st in Guangzhou, 2023)
 
-Monetary Policy Issues and Challenges for Asian Economies International Conference, Online, 2021
+Monetary Policy Issues and Challenges for Asian Economies International Conference (Online, 2021)
 
-8th Annual Conference of Chinese Statistical Society, Chengdu, 2021
+Annual Conference of Chinese Statistical Society (8th in Chengdu, 2021)
