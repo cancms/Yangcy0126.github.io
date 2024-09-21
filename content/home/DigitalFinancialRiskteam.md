@@ -32,4 +32,6 @@ date_format = "Jan 2006"
 
 <a href="https://www.researchgate.net/profile/Shuo-Luo-2" target="_blank">Shuo Luo</a>, Guangxi Normal University
 
+Shuchi Zhang, Sun Yat-sen University
+
 
