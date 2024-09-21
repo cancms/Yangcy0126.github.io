@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
-Annual Conference of Quantitative Finance and Insurance Section of Chinese Society of Optimization, Overall Planning and Economical Mathematics, (5th in Wuhan, 2023; 6th in Nanjing, 2024)
-
 Annual Conference of the Chinese Society of Finance (21st in Guangzhou, 2024; 20th in Beijing, 2023)
+
+Annual Conference of Quantitative Finance and Insurance Section of Chinese Society of Optimization, Overall Planning and Economical Mathematics, (5th in Wuhan, 2023; 6th in Nanjing, 2024)
 
 Theoretical Foundations of Digital Economy Forum (1st in Beijing, 2024)
 
