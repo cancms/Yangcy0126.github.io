@@ -28,4 +28,8 @@ date_format = "Jan 2006"
 
 **Scholarships：**
 
-National Graduate Scholarship
+Sun Yat-sen University President's Scholarship
+
+National Scholarship for Doctoral Students
+
+National Scholarship for Master's Students
