@@ -19,7 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
-
 China Economic Annual Conference (24th in Beijing 2024)
 
 China Finance Annual Conference (21st in Guangzhou 2024; 20th in Beijing 2023)
