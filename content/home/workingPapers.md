@@ -29,8 +29,6 @@ Heterogeneity through motivation: The impact of corporate digital finance on fin
 
 Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
 
-The role of digital government on renewable energy development: theory and evidence.
-
 Collateral shocks and corporate risk-taking in China.
 
 Interaction between fintech development and energy transition risks: Towards sustainable governance.
@@ -41,8 +39,8 @@ Climate risk and industry returns: Industry green innovation or carbon market un
 
 The dark side of mitigating risk: Directors’ and officers’ liability insurance and business ethics.
 
-Dynamics between fintech and financial market: Supply-driven or demand-guided?
-
 How does digital transformation work? A perspective on information management and resource allocation
 
-Crowding Out or Crowding In? The Impact of Talent Subsidy Policy on the Income of Low-Skilled Workers
+Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers
+
+From Policy to Progress: The role of Sci-tech finance projects in key technological innovation
