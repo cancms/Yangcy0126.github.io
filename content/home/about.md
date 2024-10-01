@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-title = "Hello, I am Cunyi Yang!"
+title = "中山大学岭南学院2022级博士研究生"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
