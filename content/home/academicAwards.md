@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 
 **Paper Awards：**
 
-“Nomination Prize” in The 14th Qian Xuesen City Gold Medal, 2024
+“Nomination Prize” in 14th Qian Xuesen City Gold Medal, 2024
 
 “Best Paper Award - Third Prize” in 4th National Major Strategy and Policy Research Forum, 2024
 
