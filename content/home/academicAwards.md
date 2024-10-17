@@ -22,9 +22,11 @@ date_format = "Jan 2006"
 
 **Paper Awards：**
 
-“Best Paper Award” in 9th Risk Management and Financial Statistics Forum 
+“Nomination Prize” in The 14th Qian Xuesen City Gold Medal, 2024
 
-“Best Paper Award - Third Prize” in 4th National Major Strategy and Policy Research Forum
+“Best Paper Award” in 9th Risk Management and Financial Statistics Forum, 2024
+
+“Best Paper Award - Third Prize” in 4th National Major Strategy and Policy Research Forum, 2024
 
 **Scholarships：**
 
