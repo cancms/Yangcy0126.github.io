@@ -22,11 +22,13 @@ date_format = "Jan 2006"
 
 **Paper Awards：**
 
-“Nomination Prize” in 14th Qian Xuesen City Gold Medal, 2024
+“Outstanding Paper Award” in The 6th Academic Annual Conference of the Quantitative Finance and Insurance Branch of the Chinese Society of Optimization, Overall Planning, and Economic Mathematics, 2024
 
-“Best Paper Award - Third Prize” in 4th National Major Strategy and Policy Research Forum, 2024
+“Nomination Prize” in The 14th Qian Xuesen City Gold Medal, 2024
 
-“Best Paper Award” in 9th Risk Management and Financial Statistics Forum, 2024
+“Outstanding Paper Award - Third Prize” in The 4th National Major Strategy and Policy Research Forum, 2024
+
+“Best Paper Award” in The 9th Risk Management and Financial Statistics Forum, 2024
 
 **Scholarships：**
 
