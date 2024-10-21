@@ -23,9 +23,9 @@ date_format = "Jan 2006"
 
 China Economic Annual Conference (24th in Beijing 2024)
 
-Annual Academic Conference of the China Information Economics Association (36th in Beijing, 2024)
-
 China Finance Annual Conference (21st in Guangzhou 2024; 20th in Beijing 2023)
+
+Annual Academic Conference of the China Information Economics Association (36th in Beijing, 2024)
 
 Annual Conference of Quantitative Finance and Insurance Section of Chinese Society of Optimization, Overall Planning and Economical Mathematics, (5th in Wuhan 2023; 6th in Nanjing 2024)
 
