@@ -97,7 +97,7 @@ date_format = "Jan 2006"
   
 [[item]]
   publication_name = "Far-sighted through mitigating risk: Directors and officers liability insurance and corporate ESG performance"
-  publication_url = ""
+  publication_url = "https://doi.org/10.1016/j.irfa.2024.103719"
   writer_names = "Yang, R., Wu, J., <strong>Yang, C*</strong>., Albitar, K."
   organization = "_International Review of Financial Analysis_. 2024, Early Access"
 
