@@ -20,6 +20,7 @@ date_format = "Jan 2006"
 
 +++
 
+Greater Bay Area Digital Finance Forum (1st in Guangzhou 2023; 2st in Guangzhou 2024)
 
 China Economic Annual Conference (24th in Beijing 2024)
 
@@ -34,8 +35,6 @@ Theoretical Foundations of Digital Economy Forum (1st in Beijing 2024)
 Internet and Digital Economy Forum (6th in Beijing 2024; 5th in Changsha 2023)
 
 Risk Management and Financial Statistics Forum (9th in Guangzhou 2024; 7th in Guangzhou 2022; 6th in Xiamen 2021)
-
-Greater Bay Area Digital Finance Forum (1st in Guangzhou 2024)
 
 Annual Conference of Chinese Fintech (7th in Guangzhou 2023)
 
