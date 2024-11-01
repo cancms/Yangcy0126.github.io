@@ -102,22 +102,10 @@ date_format = "Jan 2006"
   organization = "_International Review of Financial Analysis_. 2024, 96, 103719"
 
 [[item]]
-  publication_name = "Financing constraints of firms: Is there political favoritism in the economic resources given by the central government?"
-  publication_url = "https://doi.org/10.1002/mde.4296"
-  writer_names = "Liu, X., Faura, J., Gao, M., <strong>Yang, C*</strong>."
-  organization = "_Managerial and Decision Economics_. 2024, 45(7), 4983-5005"
-
-[[item]]
   publication_name = "The impact of fintech on corporate carbon emissions: Towards green and sustainable development"
   publication_url = "https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3778"
   writer_names = "Wang, C., Wang, L., Zhao, S., <strong>Yang, C*</strong>., Albitar, K."
   organization = "_Business Strategy and the Environment_. 2024, 33(6), 5776-5796"
-
-[[item]]
-  publication_name = "Examining the non-linear effects of monetary policy on carbon emissions"
-  publication_url = "https://doi.org/10.1016/j.eneco.2023.107206"
-  writer_names = "Wu, J., **Yang, C.**, Chen, L."
-  organization = "_Energy Economics_. 2024, 131, 107206"
 
 
 
