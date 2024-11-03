@@ -30,8 +30,6 @@ The dark side of mitigating risk: Directors’ and officers’ liability insuran
 
 Climate risk and industry returns: Industry green innovation or carbon market uncertainty.
 
-Financial technology and climate risks in financial market.
-
 Interaction between fintech development and energy transition risks: Towards sustainable governance.
 
 Collateral shocks and corporate risk-taking in China.
