@@ -26,6 +26,8 @@ China Economic Annual Conference (24th in Beijing 2024)
 
 International Symposium on Financial Systems Engineering and Risk Management (21st in Beijing 2024)
 
+Forum on Big Data Research and Practice (10th in Guangzhou 2024)
+
 China Finance Annual Conference (21st in Guangzhou 2024; 20th in Beijing 2023)
 
 Annual Academic Conference of the China Information Economics Association (36th in Beijing, 2024)
