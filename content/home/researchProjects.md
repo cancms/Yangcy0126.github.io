@@ -20,8 +20,9 @@ date_format = "Jan 2006"
 
 +++
 
+National Social Science Fund Key Project: "Research on financial digitalization and financial risk governance" (in progress)
 
-National Social Science Fund General Project “The statistical monitoring study on the coordination and balance of digital finance empowerment and risk.” (in progress)
+National Social Science Fund General Project “The statistical monitoring study on the coordination and balance of digital finance empowerment and risk” (in progress)
 
 Guangdong Provincial Natural Science Foundation Excellent Youth Team “Theory and application research on industrial digital finance empowering real economy” (in progress)
 
