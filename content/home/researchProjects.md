@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-+++
+[[item]]
 
 National Social Science Fund Key Project "Research on financial digitalization and financial risk governance" (in progress)
 
@@ -37,4 +37,8 @@ Guangdong Financial Society Annual Policy Consultation Topic “Research on fina
 National Social Science Fund Youth Project “Statistical monitoring study on systemic risks caused by corporate financialization” (completed)
 
 Guangdong Province Philosophy and Social Sciences Special “Measurement and prevention research on regional systemic financial risks in Guangdong province” (completed)
+
+[[item]]
+
+其他项目
 
