@@ -34,8 +34,6 @@ National Social Science Fund General Project “The crowding-out effect and moti
 
 Guangdong Financial Society Annual Policy Consultation Topic “Research on financial support for digital transformation of manufacturing industry in Guangdong” (completed)
 
-China Society of Finance Key Topic “Challenges and impacts on traditional financial system in the era of strong AI” (completed)
-
 National Social Science Fund Youth Project “Statistical monitoring study on systemic risks caused by corporate financialization” (completed)
 
 Guangdong Province Philosophy and Social Sciences Special “Measurement and prevention research on regional systemic financial risks in Guangdong province” (completed)
