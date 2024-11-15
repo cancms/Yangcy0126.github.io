@@ -34,6 +34,8 @@ date_format = "Jan 2006"
 
 Sun Yat-sen University President's Scholarship
 
+Lingnan College Outstanding Doctoral Student Scholarship
+
 National Scholarship for Doctoral Students
 
 National Scholarship for Master's Students
