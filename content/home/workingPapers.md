@@ -19,6 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+When Elephants Fight, Grass Suffers: The effects of diplomatic sentiments on enterprise risk and valuation
+
 Spatial interaction and spillover effects between digital finance and service industry development.
 
 From Policy to Progress: The role of Sci-tech finance projects in key technological innovation.
