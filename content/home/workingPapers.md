@@ -39,7 +39,7 @@ Collateral shocks and corporate risk-taking in China.
 
 Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
 
-Heterogeneity through motivation: The impact of corporate digital finance on financialization.
+The dark side of financial digitalization: Corporate digital finance and speculative financial investments.
 
 Exploring the production-oriented digital transformation in industrial enterprises.
 
