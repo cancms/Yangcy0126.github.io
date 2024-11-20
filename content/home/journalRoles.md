@@ -30,14 +30,14 @@ date_format = "Jan 2006"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = "** Guest Editor** for Special Issue [Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)"
+  description = "**Guest Editor** for Special Issue [Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)"
 
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = "** Guest Editor** for Special Issue [New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX)"
+  description = "**Guest Editor** for Special Issue [New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX)"
   
 [[item]]
   publication_name = "Introduction to Digital Finance"
