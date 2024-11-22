@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = "**Guest Editor** for Special Issue Innovative Approaches to Managing Finance Risks in the FinTech Era in _Journal of Risk and Financial Management_"
+  description = "**Guest Editor** for Special Issue [Innovative Approaches to Managing Finance Risks in the FinTech Era](https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3) in _Journal of Risk and Financial Management_"
   
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
