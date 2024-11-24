@@ -19,6 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+National Social Science Fund Project “Deconstruction and Multidimensional Dynamic Enhancement of Macroeconomic Resilience Based on Financial Digitalization" (in progress)
 
 National Social Science Fund Key Project "Research on financial digitalization and financial risk governance" (in progress)
 
