@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   organization = "Peking University Press, 2025"
   description = """**Principal Investigator**：
   
-  National Social Science Fund Project “Deconstruction and Multidimensional Dynamic Enhancement of Macroeconomic Resilience Based on Financial Digitalization" (in progress, CNY 300,000)
+  National Social Science Fund Project “Deconstruction and Multidimensional Dynamic Enhancement of Macroeconomic Resilience Based on Financial Digitalization" (in progress, CNY300,000)
 
-  Sun Yat-sen University Graduate Academic Innovation Project “Financial Risk Early Warning System in the Digital Finance Era” (completed, CNY 20,000)"""
+  Sun Yat-sen University Graduate Academic Innovation Project “Financial Risk Early Warning System in the Digital Finance Era” (completed, CNY20,000)"""
 
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
