@@ -3,9 +3,9 @@
 widget = "journalRoles"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 119  # Order that this section will appear.
+weight = 91  # Order that this section will appear.
 
-title = "期刊兼职"
+title = "Research Projects"
 subtitle = ""
 
 # Date format
@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = """**管理编辑**：
+  description = """**Principal Investigator**：
   
   _Journal of Economic Analysis_、_Economic Analysis Letters_。"""
 
@@ -32,25 +32,25 @@ date_format = "Jan 2006"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = """**客座编辑**：
+  description = """**Participant**：
   
-  _International Journal of Financial Studies_ 专刊 “[New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX)”。
-  
-  _Journal of Risk and Financial Management_ 专刊 “[Innovative Approaches to Managing Finance Risks in the FinTech Era](https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3)”。
-  
-  _Sustainability Journal_ 专刊 “[Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)”。"""
+National Social Science Fund Key Project “Research on financial digitalization and financial risk governance” (in progress)
 
-[[item]]
-  publication_name = "Introduction to Digital Finance"
-  publication_url = ""
-  writer_names = "Chapter 3"
-  organization = "Peking University Press, 2024"
-  description = """**审稿人**：
-  
-  _Applied Economics_、_Business Strategy and the Environment_、_China Finance Review International_、_Economic Analysis and Policy_、_Energy Economics_、_Financial Innovation_、_International Review of Economics and Finance_、_International Review of Financial Analysis_、_Managerial and Decision Economics_、_Quantitative Finance and Economics_ 等。"""
+National Social Science Fund General Project “The statistical monitoring study on the coordination and balance of digital finance empowerment and risk” (in progress)
 
+Guangdong Provincial Natural Science Foundation Excellent Youth Team “Theory and application research on industrial digital finance empowering real economy” (in progress)
 
+National Natural Science Foundation Project “Research on insurance asset allocation based on green development” (in progress)
 
+Southern Power Grid Energy Development Research Institute Horizontal Project “Study on the financial attributes of corporate data assets” (in progress)
+
+National Social Science Fund General Project “The crowding-out effect and motivation of corporate financialization on R&D innovation” (completed)
+
+Guangdong Financial Society Annual Policy Consultation Topic “Research on financial support for digital transformation of manufacturing industry in Guangdong” (completed)
+
+National Social Science Fund Youth Project “Statistical monitoring study on systemic risks caused by corporate financialization” (completed)
+
+Guangdong Province Philosophy and Social Sciences Special “Measurement and prevention research on regional systemic financial risks in Guangdong province” (completed)"""
 
 +++
 
