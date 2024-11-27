@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 
 “Gold Medal Nomination” in The 14th Qian Xuesen City Gold Medal, 2024
 
-“Outstanding Paper Award - Third Prize” in The 4th National Major Strategy and Policy Research Forum, 2024
+“Outstanding Paper Award” in The 4th National Major Strategy and Policy Research Forum, 2024
 
 “Best Paper Award” in The 9th Risk Management and Financial Statistics Forum, 2024
 
