@@ -18,16 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
  
-[[item]]
-  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
-  publication_url = ""
-  writer_names = "Chapter 5"
-  organization = "Peking University Press, 2025"
-  description = """**Principal Investigator**：
-  
-  National Social Science Fund Project “Deconstruction and Multidimensional Dynamic Enhancement of Macroeconomic Resilience Based on Financial Digitalization" (in progress, CNY300,000)
-
-  Sun Yat-sen University Graduate Academic Innovation Project “Financial Risk Early Warning System in the Digital Finance Era” (completed, CNY20,000)"""
 
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
