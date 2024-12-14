@@ -64,12 +64,6 @@ date_format = "Jan 2006"
   publication_url = "https://doi.org/10.1016/j.techfore.2024.123722"
   writer_names = "**Yang, C.**, Gu, M., Albitar, K."
   organization = "_Technological Forecasting & Social Change_. 2024, 208, 123722"
-
-[[item]]
-  publication_name = "Green versus Digital: Analyzing financial strategies for energy transition"
-  publication_url = ""
-  writer_names = "**Yang, C.**, Yang, R., Ma, W."
-  organization = "_Financial Innovation_. 2024, Accept"
   
 [[item]]
   publication_name = "ESG ratings and green innovation: A U-shaped journey towards sustainable development"
@@ -82,12 +76,6 @@ date_format = "Jan 2006"
   publication_url = "https://doi.org/10.3934/QFE.2023026"
   writer_names = "**Yang, C.**, Chen, L., Mo, B."
   organization = "_Quantitative Finance and Economics_. 2023, 7(4), 508-537"
-  
-[[item]]
-  publication_name = "How to facilitate in-depth digitalization in enterprises?"
-  publication_url = "https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2398191#abstract"  
-  writer_names = "Wu, J., <strong>Yang, C*</strong>., Zhang, G."
-  organization = "_Applied Economics Letters_. 2024, Early Access"
 
 [[item]]
   publication_name = "Financial technology and climate risks in financial market"
