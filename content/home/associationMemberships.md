@@ -23,8 +23,6 @@ Systems Engineering Society of China (SESC)
 
 Chinese Society of Optimization, Overall Planning and Economical Mathematics (CSOOPEM)
 
-China Information Economics Association (CIEA)
-
 American Economic Association (AEA)
 
 American Finance Association (AFA)
